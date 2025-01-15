@@ -7,4 +7,4 @@ Smoothed out drag-n-drop, successfully implemented collision side detection + ru
 Plan for tomorrow: grouping, correct slotting
 
 Wed 15/1/2025:
-Algorithm so only correct pieces "snap"
+Algorithm so only correct pieces "snap", pictures get automatically cut into puzzles
