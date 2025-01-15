@@ -8,3 +8,4 @@ Plan for tomorrow: grouping, correct slotting
 
 Wed 15/1/2025:
 Algorithm so only correct pieces "snap", pictures get automatically cut into puzzles, snap v1 (correct pieces attach and move with moving piece, collision with other correct piece has it jump to correct position and join movment, but stops being a group when let go)
+Plan for tommorrow: re-do snap (new object to keep pieces that moves instead), randomized starting position, (basis for level creation)
