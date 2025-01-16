@@ -10,9 +10,10 @@ Plan for tomorrow: grouping, correct slotting
 
 Wed 15/1/2025:
 Algorithm so only correct pieces "snap", pictures get automatically cut into puzzles, snap v1 (correct pieces attach and move with moving piece, collision with other correct piece has it jump to correct position and join movment, but stops being a group when let go)
-Plan for tommorrow: re-do snap (new object to keep pieces that moves instead), randomized starting position, (basis for level creation)
+Plan for tomorrow: re-do snap (new object to keep pieces that moves instead)
 
 Game State: https://www.tumblr.com/the-anas-crecca/772818000871063552/creative-code-lab-state-from-151-current-state?source=share
 
 Thu 16/1/2025:
-Fixed Issue with Algorithm where last of row  would snap to side of first of next row,
+Fixed Issue with Algorithm where last of row  would snap to side of first of next row, snap v2 (correct pieces snap and continue moving if picked up again, but two "groups" meeting messes things up), snap v3 (i cannot describe this mess but its getting there)
+Plan for tomorrow: finish puzzle mechanic, (randomized starting position), (basis for level creation)
