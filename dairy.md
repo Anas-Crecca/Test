@@ -17,3 +17,6 @@ Game State: https://www.tumblr.com/the-anas-crecca/772818000871063552/creative-c
 Thu 16/1/2025:
 Fixed Issue with Algorithm where last of row  would snap to side of first of next row, snap v2 (correct pieces snap and continue moving if picked up again, but two "groups" meeting messes things up), snap v3 (i cannot describe this mess but its getting there)
 Plan for tomorrow: finish puzzle mechanic, (randomized starting position), (basis for level creation)
+
+Fri 17/1/2025:
+Puzzle machanic finished (thank you Lukas), 1 painting done, startrd animation
