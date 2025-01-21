@@ -28,3 +28,5 @@ Plan for tomorrow: base for levels
 Tue 21/1/2025:
 base finished (main screen, level select screen, dialog palceholder, level, end screen), 2 levels layed out
 Plans for tomorrow: CSS, Animation, (randomized starting position)
+
+Game State: https://www.tumblr.com/the-anas-crecca/773293590861529088/creative-code-lab-state-from-211-no-css-yet?source=share
