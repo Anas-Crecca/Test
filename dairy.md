@@ -20,3 +20,11 @@ Plan for tomorrow: finish puzzle mechanic, (randomized starting position), (basi
 
 Fri 17/1/2025:
 Puzzle machanic finished (thank you Lukas), 1 painting done, startrd animation
+
+Mon 20/1/2025:
+Finished Background, start base, score counter
+Plan for tomorrow: base for levels
+
+Tue 21/1/2025:
+base finished (main screen, level select screen, dialog palceholder, level, end screen), 2 levels layed out
+Plans for tomorrow: CSS, Animation, various assests
