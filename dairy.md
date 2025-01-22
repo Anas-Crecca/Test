@@ -32,4 +32,6 @@ Plans for tomorrow: CSS, Animation, (randomized starting position)
 Game State: https://www.tumblr.com/the-anas-crecca/773293590861529088/creative-code-lab-state-from-211-no-css-yet?source=share
 
 Wed 22/01/2025:
-piece starting position randomised
+piece starting position randomised, css sheet, finished animation1, drew assests (buttons etc)
+Plans for tomorrow: implement animation, do second animation, add dialog
+
