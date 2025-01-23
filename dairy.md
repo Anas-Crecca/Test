@@ -36,5 +36,5 @@ piece starting position randomised, css sheet, finished animation1, drew assests
 Plans for tomorrow: do second animation, add dialog
 
 Thu 23/01/2025:
-fixed issue with centered canvas, animation 2 finished
+fixed issue with centered canvas, animation 2 finished, css done, 1 painting done, dialog done
 
