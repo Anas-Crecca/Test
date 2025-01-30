@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Art Frog-storation</title>
+  <link rel="stylesheet" type="text/css" href="./css/style.css" />
+</head>
+
+<body>
+  <!-- further HTML elements, that should maybe be displayed above your game. E.g. Healtbar, .... -->
+  <!-- <div id="healthDisplay">Health:</div> -->
+  <div id="gameContainer">
+    <!-- further HTML elements, that should be behind your game. e.g. Background image, .... -->
+    <div id="background"></div>
+    <canvas id="canvas" width="750" height="750" style="display: none;"></canvas>
+    <!-- change the size attributes of your canvas according to your game -->
+    <!-- further HTML elements, that should overlay your game. e.g. Main Screen, Game Over screen, .... -->
+    <div id="mainScreen" style="display: block;">
+      <canvas id="logo" width="700" height="400"></canvas>
+      <img id="startButton" src="./Images/button1.png">
+    </div>
+    <div id="levelScreen" style="display: none;">
+      <h2>Select Level:</h2>
+      <div id="level">
+        <img src="./Images/Pieces/A.png" id="lvl1">
+        <img src="./Images/Pieces/B.png" id="lvl2">
+        <img src="./Images/Pieces/C.png" id="lvl3">
+        <img src="./Images/Pieces/D.png" id="lvl4">
+      </div>
+    </div>
+    <div id="dialogBox" style="display: none;">
+      <canvas id="dialogCan" width="250" height="300"></canvas>
+      <div id="dia">
+      <p id="dialog"></p>
+      <button id="diaButton">Next:</button>
+    </div>
+    </div>
+    <div id="endScreen" style="display: none;">
+      <h1>Restored</h1>
+      <div id="endCont"><img id="endPic"><p id="endText"></p>
+      </div>
+      <button id="restart">Back to Level Select</button>
+    </div>
+  </div>
+  <!-- further HTML elements, that should maybe be displayed below your game. E.g. Score, .... -->
+  <!-- <div id="scoreDisplay">Score: </div> -->
+
+  <script type="module" src="./script/Modules/global.js"></script>
+  <script type="module" src="./script/Modules/input.js"></script>
+  <script type="module" src="./script/Modules/main.js"></script>
+</body>
+
+</html>
